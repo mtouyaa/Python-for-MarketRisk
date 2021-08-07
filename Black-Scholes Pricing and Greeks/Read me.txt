@@ -1,4 +1,0 @@
-Black-Scholes Pricing and Greeks
-
-- Pricing and Delta
-- Greeks: Delta, Gamma, Vega
