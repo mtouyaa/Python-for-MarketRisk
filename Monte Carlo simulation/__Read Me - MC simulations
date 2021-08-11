@@ -1,0 +1,4 @@
+Monte Carlo simulations:
+
+- MC using numpy arrays
+- MC with vectorization
