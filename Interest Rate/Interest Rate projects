@@ -1,0 +1,3 @@
+Interest rate projects:
+  - Bond yield: iterative estimation of the unique rate applied to the bond cash flows that matches the bond price
+  - Bootstrap method: calculation of zero rate curve.
